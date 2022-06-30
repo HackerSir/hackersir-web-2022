@@ -126,7 +126,7 @@
              p 想了解更多資安知識，心動不如馬上行動 !
             a.btn.btn-warning.col-md-5(href="#" style="border-radius: 1.5vw;") Join us
           div.col-lg-4.col-md-5.order-md-2.order-1.mb-md-0.mb-grid-gutter
-            img.img-fluid(src="/static/image/JoinUs.png" alt="...")
+            img.img-fluid(src="static/image/JoinUs.png" alt="...")
 </template>
 
 <style scoped lang="stylus">
