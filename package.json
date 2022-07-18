@@ -1,10 +1,10 @@
 {
-  "name": "hackersir-web-2018",
+  "name": "hackersir-web-2022",
   "version": "1.0.0",
-  "description": "HackerSir Web 2018",
-  "author": "KID <jyhsu2000@gmail.com> (https://kid7.club)",
+  "description": "HackerSir Web 2022",
+  "author": "YUKI <yuki11835@gmail.com>",
   "contributors": [
-    "Vongola <vongola12324@coder.tw> (https://vongola.tw)"
+    "BearBig <john6446500@gmail.com> (https://bearbig.tk)"
   ],
   "private": true,
   "scripts": {
