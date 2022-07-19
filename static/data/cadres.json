@@ -1347,7 +1347,7 @@
       "name": "黃悅庭",
       "nickname": "麻塔巴巴",
       "job": "社長",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://i.imgur.com/1AtlGZS.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1378,6 +1378,14 @@
     {
       "name": "蔡仲林",
       "nickname": "MuMu",
+      "job": "學術",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "劉秋彤",
+      "nickname": "",
       "job": "學術",
       "avatar": "static/image/HackerSir.png",
       "department": "資訊工程學系",
@@ -1441,14 +1449,6 @@
     },
     {
       "name": "喻唯甄",
-      "nickname": "",
-      "job": "文書",
-      "avatar": "static/image/HackerSir.png",
-      "department": "資訊工程學系",
-      "description": "我是空白～"
-    },
-    {
-      "name": "劉秋彤",
       "nickname": "",
       "job": "文書",
       "avatar": "static/image/HackerSir.png",
