@@ -1347,23 +1347,23 @@
       "name": "黃悅庭",
       "nickname": "麻塔巴巴",
       "job": "社長",
-      "avatar": "https://hackersir.org/Cadre-Image/9th/9th-黃悅庭.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-黃悅庭.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
     {
       "name": "張宸",
-      "nickname": "",
+      "nickname": "BearBig",
       "job": "副社長",
-      "avatar": "https://hackersir.org/Cadre-Image/9th/9th-張宸.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-張宸.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
     {
       "name": "許友齊",
-      "nickname": "YUKI",
+      "nickname": "Yuki",
       "job": "副社長",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-許友齊.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1379,7 +1379,7 @@
       "name": "蔡仲林",
       "nickname": "MuMu",
       "job": "學術",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-蔡仲林.jpg",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1401,9 +1401,9 @@
     },
     {
       "name": "周勇成",
-      "nickname": "",
+      "nickname": "Katze",
       "job": "學術",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-周勇成.jpg",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1417,9 +1417,9 @@
     },
     {
       "name": "蕭棋方",
-      "nickname": "",
+      "nickname": "kada",
       "job": "美宣",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-蕭棋方.jpg",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1443,7 +1443,7 @@
       "name": "鄭筑云",
       "nickname": "",
       "job": "文書",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-鄭筑云.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1467,7 +1467,7 @@
       "name": "林宸毅",
       "nickname": "Ian",
       "job": "事務",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://avatars.githubusercontent.com/u/59338745",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1491,7 +1491,7 @@
       "name": "洪群哲",
       "nickname": "",
       "job": "顧問",
-      "avatar": "static/image/HackerSir.png",
+      "avatar": "https://www.gravatar.com/avatar/df1f1ee0d0ec7945862d5844fc4fadc5?s=200",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
