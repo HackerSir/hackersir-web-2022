@@ -1420,6 +1420,14 @@
       "nickname": "kada",
       "job": "美宣",
       "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-蕭棋方.jpg",
+      "department": "光電科學與工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "歐陽翰翹",
+      "nickname": "",
+      "job": "美宣",
+      "avatar": "static/image/HackerSir.png",
       "department": "資訊工程學系",
       "description": "我是空白～"
     },
@@ -1428,7 +1436,7 @@
       "nickname": "",
       "job": "公關",
       "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-余浩瑋.jpeg",
-      "department": "資訊工程學系",
+      "department": "精密系統設計學士學位學程",
       "description": "我是空白～"
     },
     {
@@ -1460,7 +1468,7 @@
       "nickname": "",
       "job": "事務",
       "avatar": "static/image/HackerSir.png",
-      "department": "資訊工程學系",
+      "department": "電子工程學系",
       "description": "我是空白～"
     },
     {
