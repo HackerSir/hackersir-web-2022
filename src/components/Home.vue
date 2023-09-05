@@ -111,7 +111,7 @@
             div.col-md.col-sm-12.mx-md-2.my-2.py-3.border.rounded.shadow-sm
               div.container
                 h4 比賽
-                p.text-muted 金盾獎、...
+                p.text-muted 金盾獎、全國技能競賽、GiCS尋找資安女婕思
             router-link.col-md.col-sm-12.mx-md-2.my-2.py-3.py-3.border.rounded.shadow-sm.btn.btn-outline-primary(:to="{name:'Activity'}")
               div.container
                 h4 More
