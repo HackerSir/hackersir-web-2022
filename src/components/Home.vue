@@ -102,7 +102,7 @@
             div.col-md.col-sm-12.mx-md-2.my-2.py-3.border.rounded.shadow-sm
               div.container
                 h4 每週社課
-                p.text-muted 預計每週二、四晚上19:00～21:00會有社課
+                p.text-muted 預計每週一、三晚上19:00～21:00會有社課
             div.col-md.col-sm-12.mx-md-2.my-2.py-3.border.rounded.shadow-sm
               div.container
                 h4 講座＆工作坊
