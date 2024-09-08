@@ -1575,7 +1575,7 @@
       "job": "學術",
       "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-張德明.jpeg",
       "department": "資訊工程學系",
-      "description": "我是空白～"
+      "description": "我是資訊系的電渣 RWeng ，過去都在研究奇怪冷門的東西，什麽奇怪宗教的歷史之類的看起來很文組的東西，資安只是稍有涉略，但是很感興趣，所以在努力學習中。平常在玩的就 Apex、遊戲王、還有 FGO，都很菜，所以基本靠肝。未來希望往 Web 方向發展，然後其他技術能學儘量學。"
     },
     {
       "name": "林鈺凱",
@@ -1718,6 +1718,273 @@
       "nickname": "Yuki",
       "job": "顧問",
       "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-許友齊.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    }
+  ],
+  "11": [
+    {
+      "name": "張德明",
+      "nickname": "RWeng",
+      "job": "社長",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-張德明.jpeg",
+      "department": "資訊工程學系",
+      "description": "早安各位我是 RWeng，我是一名資訊工程學系的學生，所以我的肝快壞了…"
+    },
+    {
+      "name": "衛育誠",
+      "nickname": "百誠",
+      "job": "副社長",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-衛育誠.jpg",
+      "department": "資訊工程學系",
+      "description": "大家好，我是資訊系的衛育誠，目前我對AI方面和Web比較有興趣，其他部分也會去嘗試看看，然後平常我會打瓦羅蘭及APEX，歡迎找我一起玩~"
+    },
+    {
+      "name": "林于綺",
+      "nickname": "wonmeow",
+      "job": "副社長",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-林于綺.jpg",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "柯昀杰",
+      "nickname": "YJK",
+      "job": "學術",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-柯昀杰.jpg",
+      "department": "資訊工程學系",
+      "description": "我是 YJK，過去有短暫打過競程，不過這兩年主要都在打 CTF，主攻的分類是 Reverse 和 PWN，目前也充當社團的 Pwner/Reverser，偶爾也會打 Web"
+    },
+    {
+      "name": "林鈺凱",
+      "nickname": "YuKAi",
+      "job": "學術",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-林鈺凱.jpg",
+      "department": "資訊工程學系",
+      "description": "我是 YuKAi，曾接觸過競程、機器人，現在主要研究 Web 相關的開發與資安，希望能累積足夠的經驗知識在 Web CTF 當通靈王。"
+    },
+    {
+      "name": "吳柏宏",
+      "nickname": "AlanHacker",
+      "job": "學術",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-吳柏宏.jpg",
+      "department": "資訊工程學系",
+      "description": "我是資訊系的 AlanHacker，是學術部的新成員之一！我所感興趣的領域很多(擅不擅長是另一回事)，競程、資安、網站後端等技術都略為摸過一點。平時喜歡看輕小說、動漫、JoJo的奇妙冒險和玩皮卡丘打排球ww，比較主流的遊戲像原神、傳說對決比較沒有在玩所以我不算油宅。"
+    },
+    {
+      "name": "高慶霖",
+      "nickname": "william",
+      "job": "學術",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-高慶霖.jpg",
+      "department": "資訊工程學系",
+      "description": "早安午安晚安我是 william，我在資安、ML、量子電腦方面都有“稍微”涉略🤏，&目前有在富邦產、壽險兼職，任何有需要協助(詢問)的都歡迎找我！！！"
+    },
+    {
+      "name": "黃議廷",
+      "nickname": "yiting",
+      "job": "學術",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "午安或者是晚安，我是 yiting ，在努力學習怎麼打CTF！"
+    },
+    {
+      "name": "陳柄佑",
+      "nickname": "Fox",
+      "job": "學術",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-陳柄佑.jpg",
+      "department": "資訊工程學系",
+      "description": "早上好我是 Fox ，競程、資安都有稍微接觸，也喜歡打排球和羽球。有需要幫忙都歡迎來找我。"
+    },
+    {
+      "name": "賴政豪",
+      "nickname": "Junner",
+      "job": "學術",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "廖東明",
+      "nickname": "豆米漿",
+      "job": "公關",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-廖東明.jpg",
+      "department": "資訊工程學系",
+      "description": "嗨我是資訊系的廖東明，最近都不知道在幹嘛，玩原神跟星鐵 可以找我，先讓我期末考燒完Q"
+    },
+    {
+      "name": "周子愉",
+      "nickname": "TZU",
+      "job": "公關",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "林庭甄",
+      "nickname": "TZ",
+      "job": "公關",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "鄞俞安",
+      "nickname": "美少女壯士",
+      "job": "公關",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "寫程式和蓋教堂一樣，當完成之後我們就開始祈禱。"
+    },
+    {
+      "name": "黃廷宇",
+      "nickname": "Tim",
+      "job": "美宣",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-黃廷宇.jpg",
+      "department": "資訊工程學系",
+      "description": "早安，我是Tim。目前是資訊系的菜雞，以前有接觸過以拉、Pr、Lr、CSP和攝影，之前有接觸過網頁和手機app開發，對資安只有3個月的資歷而已。"
+    },
+    {
+      "name": "曾念紫",
+      "nickname": "梓淰",
+      "job": "美宣",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-曾念紫.jpg",
+      "department": "資訊工程學系",
+      "description": "我是資訊系的梓淰，是美宣，最近空閒時間會玩一下星穹鐵道，然後把看看小說、動漫之類的。  "
+    },
+    {
+      "name": "鄭博允",
+      "nickname": "YunYue",
+      "job": "美宣",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-鄭博允.png",
+      "department": "資訊工程學系",
+      "description": "大家好，我是資訊系的鄭博允，最近在學習WEB，之後會想去試試寫APP或是網站。"
+    },
+    
+    {
+      "name": "楊凱琪",
+      "nickname": "KQQ",
+      "job": "美宣",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "黃子榕",
+      "nickname": "本恐龍不是龍",
+      "job": "美宣",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "林畔茵",
+      "nickname": "青草",
+      "job": "美宣",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-林畔茵.jpeg",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "温欣彗",
+      "nickname": "",
+      "job": "文書",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-温欣彗.jpg",
+      "department": "中文系",
+      "description": "安安我是温欣彗，不是溫不是慧，謝謝各位。因為想見識更多的電神所以進來了。想往遊戲逆向努力。喜歡玩桌遊，然後最近看日漫比較多，遊戲都玩手遊，但是玩什麼都很菜。聽日文歌比較多，最近最喜歡的是Eve說了這麼多只有一個重點：我家貓貓真的超級可愛！"
+    },
+    {
+      "name": "徐千田",
+      "nickname": "",
+      "job": "文書",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-徐千田.jpg",
+      "department": "資訊工程學系",
+      "description": "ㄟ斗我是資訊系的徐千田，因為想要學習資安的東西所以加入黑客社，平時喜歡聽音樂和看Dcard尋奇，也有加入系隊打籃球"
+    },
+    {
+      "name": "胡馨予",
+      "nickname": "流星雨",
+      "job": "文書",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "林明玉",
+      "nickname": "Lin",
+      "job": "文書",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-林明玉.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "李佳穗",
+      "nickname": "raraw",
+      "job": "事務",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/10th/10th-李佳穗.jpg",
+      "department": "資訊工程學系",
+      "description": "我是通訊系的李佳穗，目前還在探索想發展的領域，最近在研究資料分析的部分。是個聲控，遇到聲音好聽的人歡迎來跟我分享。"
+    },
+    {
+      "name": "陳冠羽",
+      "nickname": "XY",
+      "job": "事務",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-陳冠羽.jpg",
+      "department": "財務金融學系",
+      "description": "嗨嗨我是XY😸，一個高中三類、大學一類財金、雙主修二類資訊的怪人，主打就是想要全方位發展。良心建議中午最適合偷卷，因為早晚會暴斃😵👻"
+    },
+    {
+      "name": "許雅婷",
+      "nickname": "許",
+      "job": "事務",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "賴要宏",
+      "nickname": "Mimimaomao",
+      "job": "網管",
+      "avatar": "static/image/HackerSir.png",
+      "department": "資訊工程學系",
+      "description": "平常興趣是做 Infra 相關，休閒娛樂是Minecraft、Valorant、LOL"
+    },
+    {
+      "name": "黃俊偉",
+      "nickname": "FEED",
+      "job": "網管",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/11th/11th-黃俊偉.jpg",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "喻唯甄",
+      "nickname": "阿唯",
+      "job": "顧問",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-喻唯甄.jpeg",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "劉秋彤",
+      "nickname": "Tong",
+      "job": "顧問",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-劉秋彤.png",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "蔡仲林",
+      "nickname": "MuMu",
+      "job": "顧問",
+      "avatar": "https://cdn.jsdelivr.net/gh/HackerSir/Cadre-Image/9th/9th-蔡仲林.jpg",
+      "department": "資訊工程學系",
+      "description": "我是空白～"
+    },
+    {
+      "name": "林宸毅",
+      "nickname": "Ian",
+      "job": "顧問",
+      "avatar": "https://avatars.githubusercontent.com/u/59338745",
       "department": "資訊工程學系",
       "description": "我是空白～"
     }
