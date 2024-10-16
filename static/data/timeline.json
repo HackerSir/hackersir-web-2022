@@ -124,5 +124,26 @@
         "image": "http://hackersir.org/2015/img/logo/HackerSir.png",
         "description": "",
         "link": ""
+    },
+    {
+        "date": "2023",
+        "title": "第十屆",
+        "image": "http://hackersir.org/2015/img/logo/HackerSir.png",
+        "description": "",
+        "link": ""
+    },
+    {
+        "date": "2023-12-23",
+        "title": "黑客社十週年的研討會 HCCCON",
+        "image": "http://hackersir.org/2015/img/logo/HackerSir.png",
+        "description": "黑客社十歲啦～",
+        "link": "https://www.facebook.com/watch/?v=1562554937617560"
+    },
+    {
+        "date": "2024",
+        "title": "第十一屆",
+        "image": "http://hackersir.org/2015/img/logo/HackerSir.png",
+        "description": "",
+        "link": ""
     }
 ]
