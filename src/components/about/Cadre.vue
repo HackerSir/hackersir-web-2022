@@ -24,9 +24,9 @@
       div.d-flex.flex-column.flex-md-row(v-if="selectedYear")
         div.card
           div.card-body.d-flex.flex-wrap.justify-content-center(style="overflow-x: auto")
-            div.d-flex.flex-column.align-items-center(v-for="(cadre, nthCadre) in cadres[selectedYear]" data-bs-toggle="modal" data-bs-target="#detailModal")
+            div.cadre-item.d-flex.flex-column.align-items-center(v-for="(cadre, nthCadre) in cadres[selectedYear]" data-bs-toggle="modal" data-bs-target="#detailModal")
               router-link.avatar.m-1(:to="{name:'Cadre', params:{year: selectedYear, cadre: nthCadre}}" :style="{ 'background-image': 'url(' + cadre.avatar + ')' }")
-              div.border.rounded.px-1.mx-1
+              div.cadre-label.border.rounded.px-1.mx-1(:title="cadre.job + ' / ' + (cadre.nickname || cadre.name)")
                 span.mb-0.small {{ cadre.job }}
                 span /
                 span.mb-0.small {{ cadre.nickname || cadre.name }}
@@ -48,19 +48,32 @@
                 div.d-flex.align-items-md-center.flex-md-row.flex-column.align-items-center
                   div.text-start
                     h4 {{ selectedCadreData.department }}
-                    p 簡介：{{ selectedCadreData.description }}
+                    p.mb-1 簡介：
+                    vue-markdown.cadre-desc(:source="selectedCadreData.description" :html="false" :emoji="false" :typographer="false")
               div.modal-footer
                 button.btn.btn-secondary(type="button" data-bs-dismiss="modal") Close
 </template>
 
 <style lang="stylus" scoped>
+.cadre-item {
+  width: 150px;
+  margin-bottom: 0.75rem;
+}
+.cadre-label {
+  max-width: 100%;
+  font-size: 1rem;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+  text-align: center;
+  cursor: default;
+}
 .avatar {
   margin: 2px;
   width: 100px;
   height: 100px;
   border-radius: 50%;
   border: black 1px solid;
-  background: no-repeat center center / contain;
+  background: no-repeat center center / cover;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -195,7 +208,12 @@
 </style>
 
 <script>
+import VueMarkdown from 'vue-markdown'
+
 export default {
+  components: {
+    VueMarkdown
+  },
   data: function () {
     return {
       selectedYear: null,
